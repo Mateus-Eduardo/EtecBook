@@ -1,3 +1,4 @@
+using EtecBookAPI.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace EtecBookAPI.Data
